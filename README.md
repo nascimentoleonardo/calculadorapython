@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculadora em Python
 
 Projeto desenvolvido em Python para o curso de Analista de Dados da EBAC com o objetivo de praticar conceitos básicos de programação, como:
@@ -112,3 +113,7 @@ Usuário deseja continuar?
   │
   └── SAIR ─► Fim
 ```
+=======
+# calculadorapython
+Projeto de calculadora criado para o curso de Analista de Dados da EBAC
+>>>>>>> 6c6aad98db17b0f5a072388240b2fc723ab03de9

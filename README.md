@@ -45,8 +45,6 @@ O projeto também possui um script Bash chamado `script.sh`.
 
 Esse arquivo tem como objetivo instalar as dependências e facilitar a execução do programa Python através do terminal.
 
-Um exemplo de conteúdo do arquivo é:
-
 
 ## 1. Dê permissão de execução ao arquivo
 
